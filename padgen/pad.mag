@@ -1,0 +1,576 @@
+magic
+tech scmos
+timestamp 1
+<< metal1 >>
+rect 10 10 1210 1210
+<< metal2 >>
+rect 10 10 1210 1210
+<< metal3 >>
+rect 10 10 1210 1210
+<< m1contact >>
+rect 15 15 25 25
+rect 15 1195 25 1205
+<< m2contact >>
+rect 15 15 25 25
+rect 15 1195 25 1205
+<< m1contact >>
+rect 40 15 50 25
+rect 40 1195 50 1205
+<< m2contact >>
+rect 40 15 50 25
+rect 40 1195 50 1205
+<< m1contact >>
+rect 65 15 75 25
+rect 65 1195 75 1205
+<< m2contact >>
+rect 65 15 75 25
+rect 65 1195 75 1205
+<< m1contact >>
+rect 90 15 100 25
+rect 90 1195 100 1205
+<< m2contact >>
+rect 90 15 100 25
+rect 90 1195 100 1205
+<< m1contact >>
+rect 115 15 125 25
+rect 115 1195 125 1205
+<< m2contact >>
+rect 115 15 125 25
+rect 115 1195 125 1205
+<< m1contact >>
+rect 140 15 150 25
+rect 140 1195 150 1205
+<< m2contact >>
+rect 140 15 150 25
+rect 140 1195 150 1205
+<< m1contact >>
+rect 165 15 175 25
+rect 165 1195 175 1205
+<< m2contact >>
+rect 165 15 175 25
+rect 165 1195 175 1205
+<< m1contact >>
+rect 190 15 200 25
+rect 190 1195 200 1205
+<< m2contact >>
+rect 190 15 200 25
+rect 190 1195 200 1205
+<< m1contact >>
+rect 215 15 225 25
+rect 215 1195 225 1205
+<< m2contact >>
+rect 215 15 225 25
+rect 215 1195 225 1205
+<< m1contact >>
+rect 240 15 250 25
+rect 240 1195 250 1205
+<< m2contact >>
+rect 240 15 250 25
+rect 240 1195 250 1205
+<< m1contact >>
+rect 265 15 275 25
+rect 265 1195 275 1205
+<< m2contact >>
+rect 265 15 275 25
+rect 265 1195 275 1205
+<< m1contact >>
+rect 290 15 300 25
+rect 290 1195 300 1205
+<< m2contact >>
+rect 290 15 300 25
+rect 290 1195 300 1205
+<< m1contact >>
+rect 315 15 325 25
+rect 315 1195 325 1205
+<< m2contact >>
+rect 315 15 325 25
+rect 315 1195 325 1205
+<< m1contact >>
+rect 340 15 350 25
+rect 340 1195 350 1205
+<< m2contact >>
+rect 340 15 350 25
+rect 340 1195 350 1205
+<< m1contact >>
+rect 365 15 375 25
+rect 365 1195 375 1205
+<< m2contact >>
+rect 365 15 375 25
+rect 365 1195 375 1205
+<< m1contact >>
+rect 390 15 400 25
+rect 390 1195 400 1205
+<< m2contact >>
+rect 390 15 400 25
+rect 390 1195 400 1205
+<< m1contact >>
+rect 415 15 425 25
+rect 415 1195 425 1205
+<< m2contact >>
+rect 415 15 425 25
+rect 415 1195 425 1205
+<< m1contact >>
+rect 440 15 450 25
+rect 440 1195 450 1205
+<< m2contact >>
+rect 440 15 450 25
+rect 440 1195 450 1205
+<< m1contact >>
+rect 465 15 475 25
+rect 465 1195 475 1205
+<< m2contact >>
+rect 465 15 475 25
+rect 465 1195 475 1205
+<< m1contact >>
+rect 490 15 500 25
+rect 490 1195 500 1205
+<< m2contact >>
+rect 490 15 500 25
+rect 490 1195 500 1205
+<< m1contact >>
+rect 515 15 525 25
+rect 515 1195 525 1205
+<< m2contact >>
+rect 515 15 525 25
+rect 515 1195 525 1205
+<< m1contact >>
+rect 540 15 550 25
+rect 540 1195 550 1205
+<< m2contact >>
+rect 540 15 550 25
+rect 540 1195 550 1205
+<< m1contact >>
+rect 565 15 575 25
+rect 565 1195 575 1205
+<< m2contact >>
+rect 565 15 575 25
+rect 565 1195 575 1205
+<< m1contact >>
+rect 590 15 600 25
+rect 590 1195 600 1205
+<< m2contact >>
+rect 590 15 600 25
+rect 590 1195 600 1205
+<< m1contact >>
+rect 615 15 625 25
+rect 615 1195 625 1205
+<< m2contact >>
+rect 615 15 625 25
+rect 615 1195 625 1205
+<< m1contact >>
+rect 640 15 650 25
+rect 640 1195 650 1205
+<< m2contact >>
+rect 640 15 650 25
+rect 640 1195 650 1205
+<< m1contact >>
+rect 665 15 675 25
+rect 665 1195 675 1205
+<< m2contact >>
+rect 665 15 675 25
+rect 665 1195 675 1205
+<< m1contact >>
+rect 690 15 700 25
+rect 690 1195 700 1205
+<< m2contact >>
+rect 690 15 700 25
+rect 690 1195 700 1205
+<< m1contact >>
+rect 715 15 725 25
+rect 715 1195 725 1205
+<< m2contact >>
+rect 715 15 725 25
+rect 715 1195 725 1205
+<< m1contact >>
+rect 740 15 750 25
+rect 740 1195 750 1205
+<< m2contact >>
+rect 740 15 750 25
+rect 740 1195 750 1205
+<< m1contact >>
+rect 765 15 775 25
+rect 765 1195 775 1205
+<< m2contact >>
+rect 765 15 775 25
+rect 765 1195 775 1205
+<< m1contact >>
+rect 790 15 800 25
+rect 790 1195 800 1205
+<< m2contact >>
+rect 790 15 800 25
+rect 790 1195 800 1205
+<< m1contact >>
+rect 815 15 825 25
+rect 815 1195 825 1205
+<< m2contact >>
+rect 815 15 825 25
+rect 815 1195 825 1205
+<< m1contact >>
+rect 840 15 850 25
+rect 840 1195 850 1205
+<< m2contact >>
+rect 840 15 850 25
+rect 840 1195 850 1205
+<< m1contact >>
+rect 865 15 875 25
+rect 865 1195 875 1205
+<< m2contact >>
+rect 865 15 875 25
+rect 865 1195 875 1205
+<< m1contact >>
+rect 890 15 900 25
+rect 890 1195 900 1205
+<< m2contact >>
+rect 890 15 900 25
+rect 890 1195 900 1205
+<< m1contact >>
+rect 915 15 925 25
+rect 915 1195 925 1205
+<< m2contact >>
+rect 915 15 925 25
+rect 915 1195 925 1205
+<< m1contact >>
+rect 940 15 950 25
+rect 940 1195 950 1205
+<< m2contact >>
+rect 940 15 950 25
+rect 940 1195 950 1205
+<< m1contact >>
+rect 965 15 975 25
+rect 965 1195 975 1205
+<< m2contact >>
+rect 965 15 975 25
+rect 965 1195 975 1205
+<< m1contact >>
+rect 990 15 1000 25
+rect 990 1195 1000 1205
+<< m2contact >>
+rect 990 15 1000 25
+rect 990 1195 1000 1205
+<< m1contact >>
+rect 1015 15 1025 25
+rect 1015 1195 1025 1205
+<< m2contact >>
+rect 1015 15 1025 25
+rect 1015 1195 1025 1205
+<< m1contact >>
+rect 1040 15 1050 25
+rect 1040 1195 1050 1205
+<< m2contact >>
+rect 1040 15 1050 25
+rect 1040 1195 1050 1205
+<< m1contact >>
+rect 1065 15 1075 25
+rect 1065 1195 1075 1205
+<< m2contact >>
+rect 1065 15 1075 25
+rect 1065 1195 1075 1205
+<< m1contact >>
+rect 1090 15 1100 25
+rect 1090 1195 1100 1205
+<< m2contact >>
+rect 1090 15 1100 25
+rect 1090 1195 1100 1205
+<< m1contact >>
+rect 1115 15 1125 25
+rect 1115 1195 1125 1205
+<< m2contact >>
+rect 1115 15 1125 25
+rect 1115 1195 1125 1205
+<< m1contact >>
+rect 1140 15 1150 25
+rect 1140 1195 1150 1205
+<< m2contact >>
+rect 1140 15 1150 25
+rect 1140 1195 1150 1205
+<< m1contact >>
+rect 1165 15 1175 25
+rect 1165 1195 1175 1205
+<< m2contact >>
+rect 1165 15 1175 25
+rect 1165 1195 1175 1205
+<< m1contact >>
+rect 15 15 25 25
+rect 1195 15 1205 25
+<< m2contact >>
+rect 15 15 25 25
+rect 1195 15 1205 25
+<< m1contact >>
+rect 15 40 25 50
+rect 1195 40 1205 50
+<< m2contact >>
+rect 15 40 25 50
+rect 1195 40 1205 50
+<< m1contact >>
+rect 15 65 25 75
+rect 1195 65 1205 75
+<< m2contact >>
+rect 15 65 25 75
+rect 1195 65 1205 75
+<< m1contact >>
+rect 15 90 25 100
+rect 1195 90 1205 100
+<< m2contact >>
+rect 15 90 25 100
+rect 1195 90 1205 100
+<< m1contact >>
+rect 15 115 25 125
+rect 1195 115 1205 125
+<< m2contact >>
+rect 15 115 25 125
+rect 1195 115 1205 125
+<< m1contact >>
+rect 15 140 25 150
+rect 1195 140 1205 150
+<< m2contact >>
+rect 15 140 25 150
+rect 1195 140 1205 150
+<< m1contact >>
+rect 15 165 25 175
+rect 1195 165 1205 175
+<< m2contact >>
+rect 15 165 25 175
+rect 1195 165 1205 175
+<< m1contact >>
+rect 15 190 25 200
+rect 1195 190 1205 200
+<< m2contact >>
+rect 15 190 25 200
+rect 1195 190 1205 200
+<< m1contact >>
+rect 15 215 25 225
+rect 1195 215 1205 225
+<< m2contact >>
+rect 15 215 25 225
+rect 1195 215 1205 225
+<< m1contact >>
+rect 15 240 25 250
+rect 1195 240 1205 250
+<< m2contact >>
+rect 15 240 25 250
+rect 1195 240 1205 250
+<< m1contact >>
+rect 15 265 25 275
+rect 1195 265 1205 275
+<< m2contact >>
+rect 15 265 25 275
+rect 1195 265 1205 275
+<< m1contact >>
+rect 15 290 25 300
+rect 1195 290 1205 300
+<< m2contact >>
+rect 15 290 25 300
+rect 1195 290 1205 300
+<< m1contact >>
+rect 15 315 25 325
+rect 1195 315 1205 325
+<< m2contact >>
+rect 15 315 25 325
+rect 1195 315 1205 325
+<< m1contact >>
+rect 15 340 25 350
+rect 1195 340 1205 350
+<< m2contact >>
+rect 15 340 25 350
+rect 1195 340 1205 350
+<< m1contact >>
+rect 15 365 25 375
+rect 1195 365 1205 375
+<< m2contact >>
+rect 15 365 25 375
+rect 1195 365 1205 375
+<< m1contact >>
+rect 15 390 25 400
+rect 1195 390 1205 400
+<< m2contact >>
+rect 15 390 25 400
+rect 1195 390 1205 400
+<< m1contact >>
+rect 15 415 25 425
+rect 1195 415 1205 425
+<< m2contact >>
+rect 15 415 25 425
+rect 1195 415 1205 425
+<< m1contact >>
+rect 15 440 25 450
+rect 1195 440 1205 450
+<< m2contact >>
+rect 15 440 25 450
+rect 1195 440 1205 450
+<< m1contact >>
+rect 15 465 25 475
+rect 1195 465 1205 475
+<< m2contact >>
+rect 15 465 25 475
+rect 1195 465 1205 475
+<< m1contact >>
+rect 15 490 25 500
+rect 1195 490 1205 500
+<< m2contact >>
+rect 15 490 25 500
+rect 1195 490 1205 500
+<< m1contact >>
+rect 15 515 25 525
+rect 1195 515 1205 525
+<< m2contact >>
+rect 15 515 25 525
+rect 1195 515 1205 525
+<< m1contact >>
+rect 15 540 25 550
+rect 1195 540 1205 550
+<< m2contact >>
+rect 15 540 25 550
+rect 1195 540 1205 550
+<< m1contact >>
+rect 15 565 25 575
+rect 1195 565 1205 575
+<< m2contact >>
+rect 15 565 25 575
+rect 1195 565 1205 575
+<< m1contact >>
+rect 15 590 25 600
+rect 1195 590 1205 600
+<< m2contact >>
+rect 15 590 25 600
+rect 1195 590 1205 600
+<< m1contact >>
+rect 15 615 25 625
+rect 1195 615 1205 625
+<< m2contact >>
+rect 15 615 25 625
+rect 1195 615 1205 625
+<< m1contact >>
+rect 15 640 25 650
+rect 1195 640 1205 650
+<< m2contact >>
+rect 15 640 25 650
+rect 1195 640 1205 650
+<< m1contact >>
+rect 15 665 25 675
+rect 1195 665 1205 675
+<< m2contact >>
+rect 15 665 25 675
+rect 1195 665 1205 675
+<< m1contact >>
+rect 15 690 25 700
+rect 1195 690 1205 700
+<< m2contact >>
+rect 15 690 25 700
+rect 1195 690 1205 700
+<< m1contact >>
+rect 15 715 25 725
+rect 1195 715 1205 725
+<< m2contact >>
+rect 15 715 25 725
+rect 1195 715 1205 725
+<< m1contact >>
+rect 15 740 25 750
+rect 1195 740 1205 750
+<< m2contact >>
+rect 15 740 25 750
+rect 1195 740 1205 750
+<< m1contact >>
+rect 15 765 25 775
+rect 1195 765 1205 775
+<< m2contact >>
+rect 15 765 25 775
+rect 1195 765 1205 775
+<< m1contact >>
+rect 15 790 25 800
+rect 1195 790 1205 800
+<< m2contact >>
+rect 15 790 25 800
+rect 1195 790 1205 800
+<< m1contact >>
+rect 15 815 25 825
+rect 1195 815 1205 825
+<< m2contact >>
+rect 15 815 25 825
+rect 1195 815 1205 825
+<< m1contact >>
+rect 15 840 25 850
+rect 1195 840 1205 850
+<< m2contact >>
+rect 15 840 25 850
+rect 1195 840 1205 850
+<< m1contact >>
+rect 15 865 25 875
+rect 1195 865 1205 875
+<< m2contact >>
+rect 15 865 25 875
+rect 1195 865 1205 875
+<< m1contact >>
+rect 15 890 25 900
+rect 1195 890 1205 900
+<< m2contact >>
+rect 15 890 25 900
+rect 1195 890 1205 900
+<< m1contact >>
+rect 15 915 25 925
+rect 1195 915 1205 925
+<< m2contact >>
+rect 15 915 25 925
+rect 1195 915 1205 925
+<< m1contact >>
+rect 15 940 25 950
+rect 1195 940 1205 950
+<< m2contact >>
+rect 15 940 25 950
+rect 1195 940 1205 950
+<< m1contact >>
+rect 15 965 25 975
+rect 1195 965 1205 975
+<< m2contact >>
+rect 15 965 25 975
+rect 1195 965 1205 975
+<< m1contact >>
+rect 15 990 25 1000
+rect 1195 990 1205 1000
+<< m2contact >>
+rect 15 990 25 1000
+rect 1195 990 1205 1000
+<< m1contact >>
+rect 15 1015 25 1025
+rect 1195 1015 1205 1025
+<< m2contact >>
+rect 15 1015 25 1025
+rect 1195 1015 1205 1025
+<< m1contact >>
+rect 15 1040 25 1050
+rect 1195 1040 1205 1050
+<< m2contact >>
+rect 15 1040 25 1050
+rect 1195 1040 1205 1050
+<< m1contact >>
+rect 15 1065 25 1075
+rect 1195 1065 1205 1075
+<< m2contact >>
+rect 15 1065 25 1075
+rect 1195 1065 1205 1075
+<< m1contact >>
+rect 15 1090 25 1100
+rect 1195 1090 1205 1100
+<< m2contact >>
+rect 15 1090 25 1100
+rect 1195 1090 1205 1100
+<< m1contact >>
+rect 15 1115 25 1125
+rect 1195 1115 1205 1125
+<< m2contact >>
+rect 15 1115 25 1125
+rect 1195 1115 1205 1125
+<< m1contact >>
+rect 15 1140 25 1150
+rect 1195 1140 1205 1150
+<< m2contact >>
+rect 15 1140 25 1150
+rect 1195 1140 1205 1150
+<< m1contact >>
+rect 15 1165 25 1175
+rect 1195 1165 1205 1175
+<< m2contact >>
+rect 15 1165 25 1175
+rect 1195 1165 1205 1175
+<< labels >>
+rlabel metal3 610 610 610 610 1 PAD
+<< end >>
